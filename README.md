@@ -5,7 +5,7 @@ Este perfil dira um pouco de minha vida kk.
 
  Tenho 28 anos Casado pai de 3 Filhas peludas e muito manhosas, moro em Sao Paulo-Capital.
  
- Atualmente estou Cursando Desenvolvimento e tecnologias para Internet na Universidade Uninove,
+ Atualmente estou Cursando TECNOLOGIA EM SISTEMAS PARA INTERNET na Universidade Uninove,
  
    tive uma preve passagem por Analise e Desenvolvimento de Sistemas pela Unip, mas a pandemia atrapalhou.
  
