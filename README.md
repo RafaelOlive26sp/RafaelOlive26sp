@@ -1,4 +1,4 @@
-<img src='Rafael Oliveira (1).png'>
+
 
 # Olá seja bem vindo
 
