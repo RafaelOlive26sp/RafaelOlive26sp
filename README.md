@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     &emsp; 	
-    <a href="www.linkedin.com/in/rafael-delgado-728211197">
+    <a href="https://www.linkedin.com/in/rafael-delgado-728211197">
       <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &emsp; 
