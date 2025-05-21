@@ -26,7 +26,7 @@
 
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contact me
 <p align="center">
 	<a href="https://github.com/RafaelOlive26sp">
       <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
@@ -38,9 +38,9 @@
 
 
 
-## 🛠️ My Skills
+## 🛠️ Minhas Skills
 
-### <picture> <img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 04%; display: inline-block;" data-target="animated-image.originalImage">  </picture> Programming languages
+### <picture> <img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 04%; display: inline-block;" data-target="animated-image.originalImage">  </picture> Linguagens de Programação
 
 <p align="center"> 
   &emsp; 
@@ -53,7 +53,7 @@
   </a> 
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desenvolvimento Front-End
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -79,7 +79,7 @@
    </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Softwares & Ferramentas
 
 <p align="center">
   &emsp;
@@ -109,7 +109,7 @@
 
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas Operacionais
 
 <p align="center">
   &emsp;
@@ -128,7 +128,7 @@
 
 
 ----	
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Statísticas do GitHub
 
 <p align="center">
   <a href="https://github.com/RafaelOlive26sp">
@@ -162,7 +162,8 @@
 <p align="center">
   <img src="https://i.imgur.com/o850haN.png"/>
 </p>
----
+
+----
 
 ### 🔧 [api_users](https://github.com/RafaelOlive26sp/api_users)
 
@@ -178,34 +179,6 @@
 <br>
 
 ---
-
-[//]: # (### 🔧 Projetos em desenvolvimento)
-
-[//]: # ()
-[//]: # (#### 🧑‍🏫 Sistema de Aulas Funcionais)
-
-[//]: # (> Aplicação web para agendamentos de aulas funcionais, com autenticação, classificação de alunos e relatórios para professores.)
-
-[//]: # ()
-[//]: # (- Front-end: Vue 3 + Vuetify)
-
-[//]: # (- Back-end: Laravel + Sanctum)
-
-[//]: # ()
-[//]: # (### 🖼️ Preview)
-
-[//]: # (<p align="center">)
-
-[//]: # (  <img src="https://i.postimg.cc/05XvkSWw/gravc-a-o-de-tela-fit.webp&#41;]&#40;https://postimg.cc/4ncqwYTf"/> )
-
-[//]: # (</p>)
-
-[//]: # ()
-[//]: # ([//]: # &#40;🔗 [Acessar o projeto]&#40;https://exemplo-do-front-end.vercel.app&#41;  &#41;)
-[//]: # ()
-[//]: # ([//]: # &#40;📖 [Documentação da API]&#40;https://link-da-api.com/docs&#41;&#41;)
-[//]: # ()
-[//]: # (---)
 
 ## 🚀 Projetos em Desenvolvimento
 ### 🏋️ Sistema de Aulas Funcionais
