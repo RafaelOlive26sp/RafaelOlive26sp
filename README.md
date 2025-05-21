@@ -1,17 +1,10 @@
-<h1 align="center">Hi , I'm Rafael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Olá me Chamo Rafael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
     <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7BB49&width=435&lines=Desenvolvedor+Back-End..;PHP..;Laravel.;Aperfei%C3%A7oando+Stacks+Front-End..;Vue3.js..;Vuetify." alt="Typing SVG" /></a>
 
 </p>
 
-
-
 <br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-</p>
-
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -35,27 +28,12 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="">
-
-</a>
 	<a href="https://github.com/RafaelOlive26sp">
-<img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-	<a href="">
-
-</a>
-	<a href="www.linkedin.com/in/rafael-delgado-728211197">
-<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-	<a href="">
-
-</a>
-	<a href="">
-
-</a>
-	<a href="">
-
-</a>
+      <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+    </a>	
+    <a href="www.linkedin.com/in/rafael-delgado-728211197">
+      <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
 </p>
 
 
@@ -67,28 +45,12 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.laravel.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/Laravel-777BB4?style=plastic&logo=Laravel&logoColor=white&color=red
-">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-777BB4?style=plastic&logo=Laravel&logoColor=white&color=red">
   </a> 
   &emsp;
   <a href="https://www.php.net/" target="_blank"> 
-    <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?style=plastic&logo=PHP&logoColor=white
-">
-
-
+    <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?style=plastic&logo=PHP&logoColor=white">
   </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    
-  </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
