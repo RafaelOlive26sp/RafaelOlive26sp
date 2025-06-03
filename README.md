@@ -153,49 +153,28 @@
 
 ## 📂 Repositórios com Destaque
 
-### 💻 [front_api_users](https://github.com/RafaelOlive26sp/front_api_users)
-
-> Front-end da aplicação de gerenciamento de usuários, desenvolvido com **Vue 3** e **Vuetify 3**.  
-> Permite login, cadastro, controle de acesso e exibição de dashboards conectados a uma API em Laravel.  
-> Responsivo e pensado para uma boa experiência do usuário.
-### 🖼️ Preview
-<p align="center">
-  <img src="https://i.imgur.com/NhVbqcf.png"/>
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/o850haN.png"/>
-</p>
-
-----
-
-### 🔧 [api_users](https://github.com/RafaelOlive26sp/api_users)
-
-> API RESTful para gerenciamento de usuários com autenticação via **Sanctum**, verificação por e-mail e níveis de privilégio.  
-> Utiliza **Laravel 10**, **MySQL** e boas práticas como uso de **Policies**, **Requests customizados**, documentação Swagger e CORS configurado para produção.
-### 🖼️ Preview
-<p align="center">
-  <img src="https://i.imgur.com/heDhPaD.png"/>
-</p>
-
-
-<br>
-<br>
-
----
-
-## 🚀 Projetos em Desenvolvimento
 ### 🏋️ Sistema de Aulas Funcionais
-<p align="center">
-	<a href="">
 
-</a>
-	<a href="https://github.com/RafaelOlive26sp">
-      <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow"/>
-    </a>
-	<a href="www.linkedin.com/in/rafael-delgado-728211197">
-      <img src="https://img.shields.io/badge/vers%C3%A3o-0.1.0-blue"/>
-    </a>
-</p>
+[//]: # (<p align="center">)
+
+[//]: # (	<a href="">)
+
+[//]: # ()
+[//]: # (</a>)
+
+[//]: # (	<a href="https://github.com/RafaelOlive26sp">)
+
+[//]: # (      <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow"/>)
+
+[//]: # (    </a>)
+
+[//]: # (	<a href="www.linkedin.com/in/rafael-delgado-728211197">)
+
+[//]: # (      <img src="https://img.shields.io/badge/vers%C3%A3o-0.1.0-blue"/>)
+
+[//]: # (    </a>)
+
+[//]: # (</p>)
 
 Sistema web completo para gerenciamento de aulas funcionais, permitindo agendamentos, controle de frequência, avaliação de desempenho e relatórios personalizados.
 
@@ -227,12 +206,15 @@ Aplicado SOLID para boas práticas de desenvolvimento
 🖼️ Preview
 <p align="center">
   <img src="https://i.postimg.cc/05XvkSWw/gravc-a-o-de-tela-fit.webp" alt="Tela principal do Sistema de Aulas Funcionais" width="70%"/>
+  <img src="https://i.postimg.cc/J0zY33cd/alterac-a-o-de-turmas.gif" alt="Tela de alteracao de turma" width="70%"/>
 </p>
 <details>
   <summary>📸 Mais screenshots</summary>
   <p align="center">
-    <img src="https://i.postimg.cc/9XbrBYdS/Captura-de-Tela-2025-05-20-a-s-22-57-51.png" alt="Tela de agendamento" width="45%"/>
+    <img src="https://i.postimg.cc/HskyT8js/Captura-de-Tela-2025-06-03-a-s-19-50-56.png" alt="Tela pada mudança de turma" width="45%"/>
     <img src="https://i.postimg.cc/8cJBLX72/Captura-de-Tela-2025-05-20-a-s-22-56-28.png" alt="Dashboard do professor" width="45%"/>
+    <img src="https://i.postimg.cc/ZqkjMxHM/Captura-de-Tela-2025-06-03-a-s-19-48-49.png" alt="tela de pagamento" width="45%"/>
+    <img src="https://i.postimg.cc/TY16dTxX/Captura-de-Tela-2025-06-03-a-s-19-44-45.png" alt="tela de tutorial" width="45%"/>
   </p>
   <p align="center">
     <img src="https://i.postimg.cc/GtHKrtzk/Captura-de-Tela-2025-05-20-a-s-22-53-53.png" alt="Área do aluno" width="45%"/>
